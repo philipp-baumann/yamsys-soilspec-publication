@@ -14,6 +14,25 @@ All analyses in this project were conducted within the [R software environment f
 The spectroscopic model library presented in this manuscript is built upon the [`simplerspec`](https://github.com/philipp-baumann/simplerspec) R package, a framework that aims to
 streamline data processing and modeling for infrared diffuse reflectance spectroscopy applications.
 
+# Run the analysis
+
+You can run the entire analysis in R when this project folder is set as working directory:
+
+```
+source("_run-scripts.R")
+```
+
+A short summary on how to invoke the analysis with a drake workflow will be added once the manuscript has been approved for publication.
+
+## Special note
+
+The ChemometricsWithR package was removed from CRAN due to 2020-09-24. For installation, please use the last [archived version](https://cran.r-project.org/src/contrib/Archive/ChemometricsWithR/) or install it via github and remotes:
+
+```r
+install.packages("remotes")
+remotes::install_github("rwehrens/ChemometricsWithR")
+```
+
 
 # Project directory structure and important files
 
