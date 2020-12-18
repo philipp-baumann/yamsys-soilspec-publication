@@ -1,0 +1,21 @@
+field_ID,sample_ID,country,country_full,site,site_full,farmer_number,species,variety,date,UTM_easting,UTM_northing,coordinate_system,altitude
+CI_tb_01,CI_tb_01_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,1,D. alata,Bètè bètè,20140704,197156,900498,UTM,310
+CI_tb_02,CI_tb_02_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,2,D. alata,Bètè bètè,20140705,198860,899785,UTM,334
+CI_tb_03,CI_tb_03_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,3,D. rotundata,Krenglè,20140705,199878,898651,UTM,302
+CI_tb_04,CI_tb_04_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,4,D. alata,Bètè bètè,20140706,202234,889230,UTM,311
+CI_tb_05,CI_tb_05_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,5,D. rotundata,Krenglè,20140706,200435,889344,UTM,326
+CI_tb_06,CI_tb_06_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,6,D. rotundata,Krenglè,20140707,198125,892508,UTM,299
+CI_tb_07,CI_tb_07_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,7,D. rotundata,Djiminikou/koudjan,20140707,206496,892394,UTM,314
+CI_tb_08,CI_tb_08_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,8,D. rotundata,Djiminikou/koudjan,20140707,205539,894413,UTM,319
+CI_tb_09,CI_tb_09_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,9,D. rotundata,Djiminikou/koudjan,20140707,206234,898456,UTM,310
+CI_tb_10,CI_tb_10_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,10,D. alata,Cameroun,20140708,195298,896550,UTM,291
+CI_tb_11,CI_tb_11_soil,CI,Côte d'Ivoire,tb,Tiéningboué,11,D. rotundata,Krenglè,20140709,195513,895684,UTM,297
+CI_tb_12,CI_tb_12_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,12,D. rotundata,Djiminikou/koudjan,20140709,194740,893319,UTM,283
+CI_tb_13,CI_tb_13_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,13,D. alata,Bètè bètè,20140709,197796,891508,UTM,313
+CI_tb_14,CI_tb_14_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,14,D. rotundata,Krenglè,20140711,201157,899091,UTM,319
+CI_tb_15,CI_tb_15_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,15,D. rotundata,Krenglè,20140711,202295,891321,UTM,312
+CI_tb_16,CI_tb_16_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,16,D. alata,Bètè bètè,20140711,202855,891184,UTM,302
+CI_tb_17,CI_tb_17_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,17,D. alata,Bètè bètè,20140711,202903,891511,UTM,313
+CI_tb_18,CI_tb_18_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,18,D. alata,Bètè bètè,20140713,207972,898455,UTM,321
+CI_tb_19,CI_tb_19_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,19,D. alata,Bètè bètè,20140713,204168,894509,UTM,348
+CI_tb_20,CI_tb_20_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,20,D. alata,Bètè bètè,20140713,203349,896536,UTM,351

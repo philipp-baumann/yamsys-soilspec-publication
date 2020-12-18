@@ -1,0 +1,21 @@
+field_ID,sample_ID,country,country_full,site,site_full,farmer_number,species,variety,date,UTM_easting,UTM_northing,coordinate_system,altitude
+BF_lo_01,BF_lo_01_soil_cal,BF,Burkina Faso,lo,Léo,1,D. rotundata,Pouna,20150805,586899,1224195,UTM,365
+BF_lo_02,BF_lo_02_soil_cal,BF,Burkina Faso,lo,Léo,2,D. rotundata,Wassara,20150805,588798,1224095,UTM,338
+BF_lo_03,BF_lo_03_soil_cal,BF,Burkina Faso,lo,Léo,3,D. rotundata,Wassara,20150805,585849,1224238,UTM,351
+BF_lo_04,BF_lo_04_soil_cal,BF,Burkina Faso,lo,Léo,4,D. rotundata,NA,20150805,586064,1224124,UTM,345
+BF_lo_05,BF_lo_05_soil_cal,BF,Burkina Faso,lo,Léo,5,D. rotundata,Wassara,20150805,585213,1223269,UTM,343
+BF_lo_06,BF_lo_06_soil_cal,BF,Burkina Faso,lo,Léo,6,D. rotundata,Wassara,20150806,589495,1223216,UTM,322
+BF_lo_07,BF_lo_07_soil_cal,BF,Burkina Faso,lo,Léo,7,D. rotundata,Wassara,20150806,589581,1222310,UTM,336
+BF_lo_08,BF_lo_08_soil_cal,BF,Burkina Faso,lo,Léo,8,D. alata,Folou,20150806,590334,1221575,UTM,325
+BF_lo_09,BF_lo_09_soil_cal,BF,Burkina Faso,lo,Léo,9,D. rotundata,Wassara,20150806,587999,1221561,UTM,321
+BF_lo_10,BF_lo_10_soil_cal,BF,Burkina Faso,lo,Léo,10,D. rotundata,Wassara,20150806,588598,1222769,UTM,340
+BF_lo_11,BF_lo_11_soil_cal,BF,Burkina Faso,lo,Léo,11,D. rotundata,Wassara,20150806,586230,1221051,UTM,321
+BF_lo_12,BF_lo_12_soil_cal,BF,Burkina Faso,lo,Léo,12,D. rotundata,Wassara,20150806,585316,1219774,UTM,328
+BF_lo_13,BF_lo_13_soil_cal,BF,Burkina Faso,lo,Léo,13,D. rotundata,Wassara,20150806,586935,1219827,UTM,341
+BF_lo_14,BF_lo_14_soil_cal,BF,Burkina Faso,lo,Léo,14,D. rotundata,Wassara,20150807,588504,1220047,UTM,328
+BF_lo_15,BF_lo_15_soil_cal,BF,Burkina Faso,lo,Léo,15,D. rotundata,Wassara,20150807,588686,1219955,UTM,321
+BF_lo_16,BF_lo_16_soil_cal,BF,Burkina Faso,lo,Léo,16,D. rotundata,Wassara,20150807,589096,1219312,UTM,330
+BF_lo_17,BF_lo_17_soil_cal,BF,Burkina Faso,lo,Léo,17,D. alata,Folou,20150807,589146,1218524,UTM,338
+BF_lo_18,BF_lo_18_soil_cal,BF,Burkina Faso,lo,Léo,18,D. rotundata,Pouna,20150807,588688,1219307,UTM,328
+BF_lo_19,BF_lo_19_soil_cal,BF,Burkina Faso,lo,Léo,19,D. rotundata,Wassara,20150807,587605,1219618,UTM,342
+BF_lo_20,BF_lo_20_soil_cal,BF,Burkina Faso,lo,Léo,20,D. rotundata,Wassara,20150808,588968,1224375,UTM,337

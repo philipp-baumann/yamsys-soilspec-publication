@@ -1,0 +1,21 @@
+field_ID,sample_ID,country,country_full,site,site_full,farmer_number,species,variety,date,UTM_easting,UTM_northing,coordinate_system,altitude
+BF_mo_01,BF_mo_01_soil_cal,BF,Burkina Faso,mo,Midebdo,1,D. alata,Flado/Américain,20150811,485926,1102523,UTM,291
+BF_mo_02,BF_mo_02_soil_cal,BF,Burkina Faso,mo,Midebdo,2,D. alata,Flado/Américain,20150811,484743,1105353,UTM,317
+BF_mo_03,BF_mo_03_soil_cal,BF,Burkina Faso,mo,Midebdo,3,D. rotundata,Pahinté,20150811,483258,1106330,UTM,314
+BF_mo_04,BF_mo_04_soil_cal,BF,Burkina Faso,mo,Midebdo,4,D. alata,Flado/Américain,20150811,482997,1103971,UTM,287
+BF_mo_05,BF_mo_05_soil_cal,BF,Burkina Faso,mo,Midebdo,5,D. rotundata,Pahinté,20150812,483094,1105728,UTM,349
+BF_mo_06,BF_mo_06_soil_cal,BF,Burkina Faso,mo,Midebdo,6,D. alata,Flado/Américain,20150812,483232,1105572,UTM,309
+BF_mo_07,BF_mo_07_soil_cal,BF,Burkina Faso,mo,Midebdo,7,D. rotundata,Bona,20150812,486177,1103958,UTM,301
+BF_mo_08,BF_mo_08_soil_cal,BF,Burkina Faso,mo,Midebdo,8,D. rotundata,Pouna,20150812,485173,1102898,UTM,301
+BF_mo_09,BF_mo_09_soil_cal,BF,Burkina Faso,mo,Midebdo,9,D. rotundata,Kona,20150812,483215,1105001,UTM,297
+BF_mo_10,BF_mo_10_soil_cal,BF,Burkina Faso,mo,Midebdo,10,D. rotundata,Pahinté,20150812,477548,1101613,UTM,299
+BF_mo_11,BF_mo_11_soil_cal,BF,Burkina Faso,mo,Midebdo,11,D. alata,Flado/Américain,20150812,475788,1104861,UTM,302
+BF_mo_12,BF_mo_12_soil_cal,BF,Burkina Faso,mo,Midebdo,12,D. rotundata,NA,20150812,478880,1103929,UTM,289
+BF_mo_13,BF_mo_13_soil_cal,BF,Burkina Faso,mo,Midebdo,13,D. alata,Flado/Américain,20150813,478200,1101589,UTM,265
+BF_mo_14,BF_mo_14_soil_cal,BF,Burkina Faso,mo,Midebdo,14,D. rotundata,Pahinté,20150813,477485,1101354,UTM,310
+BF_mo_15,BF_mo_15_soil_cal,BF,Burkina Faso,mo,Midebdo,15,D. alata,Flado/Américain,20150813,476998,1101821,UTM,299
+BF_mo_16,BF_mo_16_soil_cal,BF,Burkina Faso,mo,Midebdo,16,D. alata,Flado/Américain,20150813,475679,1099021,UTM,287
+BF_mo_17,BF_mo_17_soil_cal,BF,Burkina Faso,mo,Midebdo,17,D. rotundata,Pahinté,20150813,474920,1102517,UTM,309
+BF_mo_18,BF_mo_18_soil_cal,BF,Burkina Faso,mo,Midebdo,18,D. alata,Flado/Américain,20150813,477222,1103093,UTM,302
+BF_mo_19,BF_mo_19_soil_cal,BF,Burkina Faso,mo,Midebdo,19,D. rotundata,Pahinté,20150813,479176,1104653,UTM,293
+BF_mo_20,BF_mo_20_soil_cal,BF,Burkina Faso,mo,Midebdo,20,D. rotundata,Pahinté,20150813,479160,1103940,UTM,295
