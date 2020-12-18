@@ -22,7 +22,7 @@ You can run the entire analysis in R when this project folder is set as working 
 source("_run-scripts.R")
 ```
 
-A short summary on how to invoke the analysis with a drake workflow will be added once the manuscript has been approved for publication.
+A short summary on how to install exact package versions and sources via [renv](https://rstudio.github.io/renv/articles/renv.html) and how to invoke the analysis with a [drake workflow](https://books.ropensci.org/drake/) will be added once the manuscript has been approved for publication.
 
 ## Special note
 
