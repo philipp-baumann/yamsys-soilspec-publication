@@ -1,0 +1,135 @@
+## This file contains metadata about the laboratory reference dataset
+## file: <soilchem_yamsys.csv>; path: <data/soilchem/soilchem_yamsys.csv>
+## There is a description of the columns (header name) and details about
+## laboratory reference analysis method below
+################################################################################
+<sample_ID>:      Consists of
+			  <country abbreviation>_<site abbreviation>_<field_no>
+				<country abbreviation>:
+					"BF": Burkina Faso;
+					"CI": Côte d'Ivoire
+				<site abbreviation>:
+					"lo": Léo (Burkina Faso);
+					"mo": Midebdo (Burkina Faso)
+					"tb": Tiénningboué (Côte d'Ivoire);
+					"sb": Liliyo (Côte d'Ivoire)
+						(previously named Soubré)
+				<field_no>:
+					number from 01 to 20;
+					separate numbering at each of the YAMSYS sites
+<country>: 		Consists of <country abbreviation>:
+					"BF": Burkina Faso; "CI": Côte d'Ivoire
+<site>: 		Consists of <location abbreviation>:
+					"lo": Léo (Burkina Faso);
+					"mo": Midebdo (Burkina Faso)
+					"tb": Tiénningboué (Côte d'Ivoire);
+					"sb": Liliyo (Côte d'Ivoire)
+<S>: 			Total sulfur in mg per kg dry soil; measured by elemental analyzer (vario PYRO cube)
+					coupled to a mass spectrometer (IsoPrime100, Isoprime Ltd., UK)
+<C>: 			Total carbon in g per kg dry soil; measured by elemental analyzer (vario PYRO cube)
+					coupled to a mass spectrometer (IsoPrime100, Isoprime Ltd., UK)
+<N>: 			Total nitrogen in g per kg dry soil; measured by elemental analyzer (vario PYRO cube)
+					coupled to a mass spectrometer (IsoPrime100, Isoprime Ltd., UK)
+<ex_Ca>			Exchangeable calcium in mg Ca per kg dry soil;
+					measured by 0.1M BaCl2 extraction (Hendershot and Duquette, 1986)
+					and ICP-OES analysis (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<ex_Mg>			Exchangeable magnesium in mg Mg per kg dry soil;
+					measured by 0.1M BaCl2 extraction (Hendershot and Duquette, 1986)
+					and ICP-OES analysis (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<ex_K>			Exchangeable potassium in mg K per kg dry soil;
+					measured by 0.1M BaCl2 extraction (Hendershot and Duquette, 1986)
+					and ICP-OES analysis (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<ex_Al>			Exchangeable aluminium in mg Al per kg dry soil;
+					measured by 0.1M BaCl2 extraction (Hendershot and Duquette, 1986)
+					and ICP-OES analysis (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<ex_Na>			Exchangeable sodium in mg Na per kg dry soil;
+					measured by 0.1M BaCl2 extraction (Hendershot and Duquette, 1986)
+					and ICP-OES analysis (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<ex_Fe>			Exchangeable iron in mg Fe per kg dry soil;
+					measured by 0.1M BaCl2 extraction (Hendershot and Duquette, 1986)
+					and ICP-OES analysis (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<ex_Mn>			Exchangeable manganese in mg Mn per kg dry soil;
+					measured by 0.1M BaCl2 extraction (Hendershot and Duquette, 1986)
+					and ICP-OES analysis (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<pH_BaCl2>		pH measured in 0.1M BaCl2 extract (Hendershot and Duquette, 1986)
+<CEC_eff>		Effective Cation Exchange Capacity in cmol(+) per kg dry soil;
+					calculated from values of exchangeable cations Ca, Mg, K, Na, and Al
+<BS_eff>		Base saturation in percent;
+				calculated from ratio of the sum of basic cations
+					(Ca2+, Mg2+, K+, and Na+) in cmol(+) per kg dry soil tot the <CEC_eff>
+					multiplied by 100
+<pH>			pH measured in water using a 1:2 weight-to-volume ratio of
+					soil:water;
+					10 g of soil; 20 mL of water
+<P_resin>		Resin-extractable P in mg P per kg dry soil
+					(Kouno et al., 1998);
+					determination of P by malachite green method (Ohno and Zibilske 1991)
+<Fe_tot>		Total iron in g Fe per kg dry soil;
+					measured by energy dispersive X-ray fluorescence (ED-XRF);
+					XEPHOS instrument (SPECTRO Analytical Instruments GmbH, Germany)
+<Si_tot>		Total silicium in g Si per kg dry soil;
+					measured by energy dispersive X-ray fluorescence (ED-XRF);
+					XEPHOS instrument (SPECTRO Analytical Instruments GmbH, Germany)
+<Al_tot>		Total aluminium in g Al per kg dry soil;
+					measured by energy dispersive X-ray fluorescence (ED-XRF);
+					XEPHOS instrument (SPECTRO Analytical Instruments GmbH, Germany)
+<P_tot>			Total phosphorus in mg P per kg dry soil;
+					measured by energy dispersive X-ray fluorescence (ED-XRF);
+					XEPHOS instrument (SPECTRO Analytical Instruments GmbH, Germany)
+<S_tot>			Total sulfur in mg S per kg dry soil;
+					measured by energy dispersive X-ray fluorescence (ED-XRF);
+					XEPHOS instrument (SPECTRO Analytical Instruments GmbH, Germany)
+<K_tot>			Total potassium in g K per kg dry soil;
+					measured by energy dispersive X-ray fluorescence (ED-XRF);
+					XEPHOS instrument (SPECTRO Analytical Instruments GmbH, Germany)
+<Ca_tot>		Total calcium in g Ca per kg dry soil;
+					measured by energy dispersive X-ray fluorescence (ED-XRF);
+					XEPHOS instrument (SPECTRO Analytical Instruments GmbH, Germany)
+<Mn_tot>		Total manganese in g Mn per kg dry soil;
+					measured by energy dispersive X-ray fluorescence (ED-XRF);
+					XEPHOS instrument (SPECTRO Analytical Instruments GmbH, Germany)
+<Zn_tot>		Total zink in mg Zn per kg dry soil;
+					measured by energy dispersive X-ray fluorescence (ED-XRF);
+					XEPHOS instrument (SPECTRO Analytical Instruments GmbH, Germany)
+<Cu_tot>		Total copper in mg Cu per kg dry soil;
+					measured by energy dispersive X-ray fluorescence (ED-XRF);
+					XEPHOS instrument (SPECTRO Analytical Instruments GmbH, Germany)
+<Zn_DTPA>		DTPA extractable zink in mg Zn per kg dry soil;
+					determined by DTPA soil test protocol developed
+					by Lindsay and Norvell (1978).
+					0.0005M diethylenetriaminepentaacetic acid (DTPA), 0.01M CaCl2, and 0.1 M triethanolamine (TEA).
+					Element concentrations in the extract were
+					determined by ICP-OES (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<Cu_DTPA>		DTPA extractable copper in mg Cu per kg dry soil;
+					determined by DTPA soil test protocol developed
+					by Lindsay and Norvell (1978).
+					0.0005M diethylenetriaminepentaacetic acid (DTPA), 0.01M CaCl2, and 0.1 M triethanolamine (TEA).
+					Element concentrations in the extract were
+					determined by ICP-OES (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<Fe_DTPA>		DTPA extractable iron in mg Fe per kg dry soil;
+					determined by DTPA soil test protocol developed
+					by Lindsay and Norvell (1978).
+					0.0005M diethylenetriaminepentaacetic acid (DTPA),
+					0.01M CaCl2, and 0.1 M triethanolamine (TEA).
+					Element concentrations in the extract were
+					determined by ICP-OES (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<Mn_DTPA>		DTPA extractable manganese in mg Mn per kg dry soil;
+					determined by DTPA soil test protocol developed
+					by Lindsay and Norvell (1978).
+					0.0005M diethylenetriaminepentaacetic acid (DTPA),
+					0.01M CaCl2, and 0.1 M triethanolamine (TEA).
+					Element concentrations in the extract were
+					determined by ICP-OES (Shimandzu Plasma Atomic Emission Spectrometer ICPE-9820)
+<sand>			Percent sand determined by particle size analysis using
+					the hydrometer method described in Bouyoucos (1951).
+					Soil was stirred with sodium hexametaphosphate and
+					deionized water.
+<silt>			Percent silt determined by particle size analysis using
+					the hydrometer method described in Bouyoucos (1951).
+					Soil was stirred with sodium hexametaphosphate and
+					deionized water.
+<clay>			Percent clay determined by particle size analysis using
+					the hydrometer method described in Bouyoucos (1951).
+					Soil was stirred with sodium hexametaphosphate and
+					deionized water.
+################################################################################

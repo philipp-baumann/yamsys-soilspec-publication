@@ -1,0 +1,13 @@
+type,country,site,sample_ID,m_soil,P_stnd,h2o,eluate,m1,m2,abs
+sample,CI,tb,CI_tb_03_soil_cal,2.01,,0,0.7,0.4,0.4,1.081
+sample,CI,tb,CI_tb_04_soil_cal,2.01,,0,0.7,0.4,0.4,1.287
+cal,cal,cal1,cal_2_0,,0,1.5,0.5,0.4,0.4,0.046
+cal,cal,cal1,cal_2_p1,,0.00625,1.49375,0.5,0.4,0.4,0.056
+cal,cal,cal1,cal_2_p2,,0.0125,1.4875,0.5,0.4,0.4,0.067
+cal,cal,cal1,cal_2_p3,,0.025,1.475,0.5,0.4,0.4,0.078
+cal,cal,cal1,cal_2_p4,,0.05,1.45,0.5,0.4,0.4,0.142
+cal,cal,cal1,cal_2_p5,,0.125,1.375,0.5,0.4,0.4,0.312
+cal,cal,cal1,cal_2_p6,,0.25,1.25,0.5,0.4,0.4,0.601
+cal,cal,cal1,cal_2_p7,,0.5,1,0.5,0.4,0.4,1.178
+cal,cal,cal1,cal_2_p8,,0.75,0.75,0.5,0.4,0.4,1.723
+cal,cal,cal1,cal_2_p9,,1,0.5,0.5,0.4,0.4,2.241

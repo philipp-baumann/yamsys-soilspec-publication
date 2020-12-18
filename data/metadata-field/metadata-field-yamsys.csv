@@ -1,0 +1,81 @@
+field_ID,sample_ID,country,country_full,site,site_full,farmer_number,species,variety,date,UTM_easting,UTM_northing,coordinate_system,altitude
+BF_lo_01,BF_lo_01_soil_cal,BF,Burkina Faso,lo,Léo,1,D. rotundata,Pouna,20150805,586899,1224195,UTM,365
+BF_lo_02,BF_lo_02_soil_cal,BF,Burkina Faso,lo,Léo,2,D. rotundata,Wassara,20150805,588798,1224095,UTM,338
+BF_lo_03,BF_lo_03_soil_cal,BF,Burkina Faso,lo,Léo,3,D. rotundata,Wassara,20150805,585849,1224238,UTM,351
+BF_lo_04,BF_lo_04_soil_cal,BF,Burkina Faso,lo,Léo,4,D. rotundata,NA,20150805,586064,1224124,UTM,345
+BF_lo_05,BF_lo_05_soil_cal,BF,Burkina Faso,lo,Léo,5,D. rotundata,Wassara,20150805,585213,1223269,UTM,343
+BF_lo_06,BF_lo_06_soil_cal,BF,Burkina Faso,lo,Léo,6,D. rotundata,Wassara,20150806,589495,1223216,UTM,322
+BF_lo_07,BF_lo_07_soil_cal,BF,Burkina Faso,lo,Léo,7,D. rotundata,Wassara,20150806,589581,1222310,UTM,336
+BF_lo_08,BF_lo_08_soil_cal,BF,Burkina Faso,lo,Léo,8,D. alata,Folou,20150806,590334,1221575,UTM,325
+BF_lo_09,BF_lo_09_soil_cal,BF,Burkina Faso,lo,Léo,9,D. rotundata,Wassara,20150806,587999,1221561,UTM,321
+BF_lo_10,BF_lo_10_soil_cal,BF,Burkina Faso,lo,Léo,10,D. rotundata,Wassara,20150806,588598,1222769,UTM,340
+BF_lo_11,BF_lo_11_soil_cal,BF,Burkina Faso,lo,Léo,11,D. rotundata,Wassara,20150806,586230,1221051,UTM,321
+BF_lo_12,BF_lo_12_soil_cal,BF,Burkina Faso,lo,Léo,12,D. rotundata,Wassara,20150806,585316,1219774,UTM,328
+BF_lo_13,BF_lo_13_soil_cal,BF,Burkina Faso,lo,Léo,13,D. rotundata,Wassara,20150806,586935,1219827,UTM,341
+BF_lo_14,BF_lo_14_soil_cal,BF,Burkina Faso,lo,Léo,14,D. rotundata,Wassara,20150807,588504,1220047,UTM,328
+BF_lo_15,BF_lo_15_soil_cal,BF,Burkina Faso,lo,Léo,15,D. rotundata,Wassara,20150807,588686,1219955,UTM,321
+BF_lo_16,BF_lo_16_soil_cal,BF,Burkina Faso,lo,Léo,16,D. rotundata,Wassara,20150807,589096,1219312,UTM,330
+BF_lo_17,BF_lo_17_soil_cal,BF,Burkina Faso,lo,Léo,17,D. alata,Folou,20150807,589146,1218524,UTM,338
+BF_lo_18,BF_lo_18_soil_cal,BF,Burkina Faso,lo,Léo,18,D. rotundata,Pouna,20150807,588688,1219307,UTM,328
+BF_lo_19,BF_lo_19_soil_cal,BF,Burkina Faso,lo,Léo,19,D. rotundata,Wassara,20150807,587605,1219618,UTM,342
+BF_lo_20,BF_lo_20_soil_cal,BF,Burkina Faso,lo,Léo,20,D. rotundata,Wassara,20150808,588968,1224375,UTM,337
+BF_mo_01,BF_mo_01_soil_cal,BF,Burkina Faso,mo,Midebdo,1,D. alata,Flado/Américain,20150811,485926,1102523,UTM,291
+BF_mo_02,BF_mo_02_soil_cal,BF,Burkina Faso,mo,Midebdo,2,D. alata,Flado/Américain,20150811,484743,1105353,UTM,317
+BF_mo_03,BF_mo_03_soil_cal,BF,Burkina Faso,mo,Midebdo,3,D. rotundata,Pahinté,20150811,483258,1106330,UTM,314
+BF_mo_04,BF_mo_04_soil_cal,BF,Burkina Faso,mo,Midebdo,4,D. alata,Flado/Américain,20150811,482997,1103971,UTM,287
+BF_mo_05,BF_mo_05_soil_cal,BF,Burkina Faso,mo,Midebdo,5,D. rotundata,Pahinté,20150812,483094,1105728,UTM,349
+BF_mo_06,BF_mo_06_soil_cal,BF,Burkina Faso,mo,Midebdo,6,D. alata,Flado/Américain,20150812,483232,1105572,UTM,309
+BF_mo_07,BF_mo_07_soil_cal,BF,Burkina Faso,mo,Midebdo,7,D. rotundata,Bona,20150812,486177,1103958,UTM,301
+BF_mo_08,BF_mo_08_soil_cal,BF,Burkina Faso,mo,Midebdo,8,D. rotundata,Pouna,20150812,485173,1102898,UTM,301
+BF_mo_09,BF_mo_09_soil_cal,BF,Burkina Faso,mo,Midebdo,9,D. rotundata,Kona,20150812,483215,1105001,UTM,297
+BF_mo_10,BF_mo_10_soil_cal,BF,Burkina Faso,mo,Midebdo,10,D. rotundata,Pahinté,20150812,477548,1101613,UTM,299
+BF_mo_11,BF_mo_11_soil_cal,BF,Burkina Faso,mo,Midebdo,11,D. alata,Flado/Américain,20150812,475788,1104861,UTM,302
+BF_mo_12,BF_mo_12_soil_cal,BF,Burkina Faso,mo,Midebdo,12,D. rotundata,NA,20150812,478880,1103929,UTM,289
+BF_mo_13,BF_mo_13_soil_cal,BF,Burkina Faso,mo,Midebdo,13,D. alata,Flado/Américain,20150813,478200,1101589,UTM,265
+BF_mo_14,BF_mo_14_soil_cal,BF,Burkina Faso,mo,Midebdo,14,D. rotundata,Pahinté,20150813,477485,1101354,UTM,310
+BF_mo_15,BF_mo_15_soil_cal,BF,Burkina Faso,mo,Midebdo,15,D. alata,Flado/Américain,20150813,476998,1101821,UTM,299
+BF_mo_16,BF_mo_16_soil_cal,BF,Burkina Faso,mo,Midebdo,16,D. alata,Flado/Américain,20150813,475679,1099021,UTM,287
+BF_mo_17,BF_mo_17_soil_cal,BF,Burkina Faso,mo,Midebdo,17,D. rotundata,Pahinté,20150813,474920,1102517,UTM,309
+BF_mo_18,BF_mo_18_soil_cal,BF,Burkina Faso,mo,Midebdo,18,D. alata,Flado/Américain,20150813,477222,1103093,UTM,302
+BF_mo_19,BF_mo_19_soil_cal,BF,Burkina Faso,mo,Midebdo,19,D. rotundata,Pahinté,20150813,479176,1104653,UTM,293
+BF_mo_20,BF_mo_20_soil_cal,BF,Burkina Faso,mo,Midebdo,20,D. rotundata,Pahinté,20150813,479160,1103940,UTM,295
+CI_sb_01,CI_sb_01_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,1,D. rotundata,Krenglè,20150718,790341,650996,UTM,123
+CI_sb_02,CI_sb_02_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,2,D. alata,Bètè bètè,20150719,792402,652470,UTM,174
+CI_sb_03,CI_sb_03_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,3,D. rotundata,Bondoukou,20150720,792092,648206,UTM,183
+CI_sb_04,CI_sb_04_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,4,D. alata,Florido,20150720,792324,647186,UTM,196
+CI_sb_05,CI_sb_05_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,5,D. alata,Bètè bètè,20150720,793286,647208,UTM,197
+CI_sb_06,CI_sb_06_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,6,D. alata,Bètè bètè,20150720,793437,647963,UTM,200
+CI_sb_07,CI_sb_07_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,7,D. alata,Cameroun,20150721,786000,655800,UTM,191
+CI_sb_08,CI_sb_08_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,8,D. alata,Bètè bètè,20150721,786277,655882,UTM,192
+CI_sb_09,CI_sb_09_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,9,D. alata,Cameroun,20150721,786225,654137,UTM,156
+CI_sb_10,CI_sb_10_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,10,D. alata,Cameroun,20150721,784276,654911,UTM,170
+CI_sb_11,CI_sb_11_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,11,D. alata,Cameroun,20150721,784785,653426,UTM,155
+CI_sb_12,CI_sb_12_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,12,D. alata,Cameroun,20150721,784684,650898,UTM,145
+CI_sb_13,CI_sb_13_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,13,D. alata,Cameroun,20150721,783915,647584,UTM,132
+CI_sb_14,CI_sb_14_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,14,D. alata,Cameroun,20150721,785742,651800,UTM,160
+CI_sb_15,CI_sb_15_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,15,D. alata,Bètè bètè,20150722,787245,648705,UTM,148
+CI_sb_16,CI_sb_16_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,16,D. alata,Bètè bètè,20150722,786954,649448,UTM,142
+CI_sb_17,CI_sb_17_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,17,D. alata,Bètè bètè,20150722,786328,649494,UTM,143
+CI_sb_18,CI_sb_18_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,18,D. alata,Bètè bètè,20150722,787741,650624,UTM,151
+CI_sb_19,CI_sb_19_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,19,D. alata,Cameroun,20150723,789745,650759,UTM,156
+CI_sb_20,CI_sb_20_soil_cal,CI,Côte d'Ivoire,sb,Liliyo,20,D. alata,Cameroun,20150723,789953,652414,UTM,163
+CI_tb_01,CI_tb_01_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,1,D. alata,Bètè bètè,20140704,197156,900498,UTM,310
+CI_tb_02,CI_tb_02_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,2,D. alata,Bètè bètè,20140705,198860,899785,UTM,334
+CI_tb_03,CI_tb_03_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,3,D. rotundata,Krenglè,20140705,199878,898651,UTM,302
+CI_tb_04,CI_tb_04_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,4,D. alata,Bètè bètè,20140706,202234,889230,UTM,311
+CI_tb_05,CI_tb_05_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,5,D. rotundata,Krenglè,20140706,200435,889344,UTM,326
+CI_tb_06,CI_tb_06_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,6,D. rotundata,Krenglè,20140707,198125,892508,UTM,299
+CI_tb_07,CI_tb_07_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,7,D. rotundata,Djiminikou/koudjan,20140707,206496,892394,UTM,314
+CI_tb_08,CI_tb_08_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,8,D. rotundata,Djiminikou/koudjan,20140707,205539,894413,UTM,319
+CI_tb_09,CI_tb_09_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,9,D. rotundata,Djiminikou/koudjan,20140707,206234,898456,UTM,310
+CI_tb_10,CI_tb_10_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,10,D. alata,Cameroun,20140708,195298,896550,UTM,291
+CI_tb_11,CI_tb_11_soil,CI,Côte d'Ivoire,tb,Tiéningboué,11,D. rotundata,Krenglè,20140709,195513,895684,UTM,297
+CI_tb_12,CI_tb_12_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,12,D. rotundata,Djiminikou/koudjan,20140709,194740,893319,UTM,283
+CI_tb_13,CI_tb_13_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,13,D. alata,Bètè bètè,20140709,197796,891508,UTM,313
+CI_tb_14,CI_tb_14_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,14,D. rotundata,Krenglè,20140711,201157,899091,UTM,319
+CI_tb_15,CI_tb_15_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,15,D. rotundata,Krenglè,20140711,202295,891321,UTM,312
+CI_tb_16,CI_tb_16_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,16,D. alata,Bètè bètè,20140711,202855,891184,UTM,302
+CI_tb_17,CI_tb_17_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,17,D. alata,Bètè bètè,20140711,202903,891511,UTM,313
+CI_tb_18,CI_tb_18_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,18,D. alata,Bètè bètè,20140713,207972,898455,UTM,321
+CI_tb_19,CI_tb_19_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,19,D. alata,Bètè bètè,20140713,204168,894509,UTM,348
+CI_tb_20,CI_tb_20_soil_cal,CI,Côte d'Ivoire,tb,Tiéningboué,20,D. alata,Bètè bètè,20140713,203349,896536,UTM,351
