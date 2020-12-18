@@ -1,4 +1,4 @@
-# Estimation of soil properties with mid-infrared soil spectroscopyacross yam production landscapes in West Africa
+# Estimation of soil properties with mid-infrared soil spectroscopy across yam production landscapes in West Africa
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1174869.svg)](https://doi.org/10.5281/zenodo.1174869)
 
