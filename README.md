@@ -44,9 +44,11 @@ the manuscript including table and figure outputs.
 │   ├── metadata-field
 │   ├── soilchem
 │   └── spectra
+├── manuscript
+│   ├── figs
 ├── models
 │   ├── rep-kfold-cv
-│   └── rep-kfold-cv-all-vars
+│   └── rep-kfold-cv-plsr-caret-all
 ├── out
 │   ├── data
 │   ├── figs
@@ -54,8 +56,9 @@ the manuscript including table and figure outputs.
 │   └── tables
 ├── packages.R
 ├── renv
-│   ├── library
+│   ├── activate.R
 │   └── settings.dcf
+├── renv.lock
 └── yamsys-soilspec-publication.Rproj
 ```
 
