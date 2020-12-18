@@ -48,7 +48,7 @@ spec_chem <- join_spc_chem(
   spc_tbl = spc_tbl, chem_tbl = soilchem_tbl, by = "sample_id")
 
 # Save tibble with spectra and chemical data on disk
-spec_chem_rds <- saveRDS(x = spec_chem, path = "out/data/spec_chem.Rds")
+spec_chem_rds <- saveRDS(object = spec_chem, file = "out/data/spec_chem.Rds")
 
 
 ################################################################################

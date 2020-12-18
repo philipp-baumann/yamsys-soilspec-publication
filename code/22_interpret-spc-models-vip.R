@@ -49,9 +49,8 @@ dts_long <- purrr::imap(dts, function(dt, nm) {
 # Annotate peaks in raw spectra based on peak picking --------------------------
 
 # Read spectra
-# spc_tbl <- readRDS(file = "out/data/spec_chem.Rds")
-spc_tbl <- spec_chem
-spc_tbl_sliced <- spc_tbl %>%
+# spec_chem <- readRDS(file = "out/data/spec_chem.Rds")
+spc_tbl_sliced <- spec_chem %>%
   group_by(sample_id) %>% 
   slice(1L)
 spc <- do.call(rbind, spc_tbl_sliced$spc) # This is a data frame and data.table
