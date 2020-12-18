@@ -117,12 +117,12 @@ map_mo <- filter(data_field, site == "mo") %>%
 p_map <- plot_grid(map_lo, map_mo, map_tb, map_sb, ncol = 2)
 
 # Save in generic figure output
-p_map_pdf <- ggsave(filename = "field-distribution-per-site.pdf",  plot = p_map, 
-  path = here(c("out", "figs"), width = 5, height = 5.25)
+p_map_pdf <- ggsave(filename = "field-distribution-per-site.pdf",  plot = p_map, 
+  path = here("out", "figs"), width = 5, height = 5.25)
 
 p_map_pdf_pub <- ggsave(filename = "S2.pdf",  
-  plot = p_map, 
-  path = here(c("out", "manuscript"), width = 5, height = 5.25)
+  plot = p_map, 
+  path = here("out", "manuscript"), width = 5, height = 5.25)
 
 
 ## Use tmap and sf to create a nice map ========================================
@@ -132,7 +132,7 @@ p_map_pdf_pub <- ggsave(filename = "S2.pdf",
 # data_sf <- 
 #   data_field %>%
 #   filter(site %in% c("tb", "lo", "mo")) %>%
-#   st_as_sf(x = ., coords = c("UTM_easting", "UTM_northing"),
+#   st_as_sf(x = ., coords = c("UTM_easting", "UTM_northing"),
 #   crs = 4326)
 
 # ggplot(data = data_sf) + geom_sf()
